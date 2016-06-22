@@ -105,7 +105,7 @@ $ sysctl -w dwrr.ecn_scheme=5
 $ sysctl -w dwrr.codel_target=50
 $ sysctl -w dwrr.codel_interval=1000
 ```
-To enable TCN (SP/WFQ):
+To enable CoDel (SP/WFQ):
 ```
 $ sysctl -w wfq.ecn_scheme=5
 $ sysctl -w wfq.codel_target=50
