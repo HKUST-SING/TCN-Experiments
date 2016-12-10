@@ -1,6 +1,6 @@
 # TCN-Experiments
 ## 1. Software Requirements
-To reproduce Figure 6 to 9 of [TCN paper], you need following software:
+To reproduce Figure 6 to 9 of [TCN paper](http://sing.cse.ust.hk/~wei/papers/tcn-conext2016.pdf), you need following software:
   - [TCN software prototype](https://github.com/HKUST-SING/TCN-Software)
   - [A simple traffic generator](https://github.com/HKUST-SING/TrafficGenerator)
   - [PIAS software prototype](https://github.com/HKUST-SING/PIAS-Software)
